@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Sidney&Viviane\Documents\Andre\GitHub\battery-module-4c\.\fabrication\Pick Place for board_layout.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/09/20
+Time:       22:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                      
+V_CM       TEST_POINT           TopLayer    Test_Point                      3187.874      3240.709      90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
+VBAT-      TEST_POINT           TopLayer    Test_Point                      234.173       2037.913      90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
+VBAT+      TEST_POINT           TopLayer    Test_Point                      193.701       541.693       90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
+Battery_3+ Holder_battery_18650 BottomLayer 54                              2728.425      1336.732      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_4+ Holder_battery_18650 BottomLayer 54                              657.835       487.126       360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+RTD3       32207595             BottomLayer THRMC3216X70N                   2089.803      911.811       90       "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
+Battery_1+ Holder_battery_18650 BottomLayer 54                              657.835       3012.087      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+RTD4       32207595             BottomLayer THRMC3216X70N                   2089.803      2588.188      270      "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
+RTD2       32207595             BottomLayer THRMC3216X70N                   594.488       911.968       90       "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
+RTD1       32207595             BottomLayer THRMC3216X70N                   594.488       2588.149      270      "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
+PC104B     ESQ-126-39-G-D       TopLayer    ESQ-126-Y-X-D                   3245.905      1740.394      90       "PC / 104 Connectors .100" PC/104 Elevated Socket Strip"                         
+PC104A     ESQ-126-39-G-D       TopLayer    ESQ-126-Y-X-D                   3445.905      1740.394      90       "PC / 104 Connectors .100" PC/104 Elevated Socket Strip"                         
+JRTD       "Header 8_PicoBlade" TopLayer    53398-0871                      2870.118      147.638       0        "Headers & Wire Housings VERTICAL HDR SMT 8P"                                    
+JHeater    "Header 8_PicoBlade" TopLayer    53398-0871                      663.425       3368.937      180      "Headers & Wire Housings VERTICAL HDR SMT 8P"                                    
+J1         "Header 10_pos"      TopLayer    HDRV10W64P254_2X5_1270X502X521P 143.701       1178.347      90       Connector                                                                        
+Heater2    24R/3W               BottomLayer RESAD3322W86L1422D475           1693.681      911.811       180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                            
+Heater1    24R/3W               BottomLayer RESAD3322W86L1422D475           1693.681      2587.992      180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                            
+Battery_4- Holder_battery_18650 BottomLayer 54                              2728.425      487.126       180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_3- Holder_battery_18650 BottomLayer 54                              657.835       1336.732      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_2- Holder_battery_18650 BottomLayer 54                              657.835       2162.480      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_2+ Holder_battery_18650 BottomLayer 54                              2728.425      2162.480      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_1- Holder_battery_18650 BottomLayer 54                              2728.425      3012.087      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 

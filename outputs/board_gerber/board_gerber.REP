@@ -2,44 +2,30 @@
 FileName = board_gerber.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Edge
-      File : board_gerber.GM9
+Generating : Drill Drawing
+      File : board_gerber.GD1
 
     Adding Layer      : Board Edge
 
-    Adding Layer      : Board Edge
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
     D11
-*************************************************************
-
-*************************************************************
-Generating : Sheet
-      File : board_gerber.GM16
-
-    Adding Layer      : Sheet
-
-    Adding Layer      : Board Edge
-
-
-Used DCodes :
-    D11
-    D13
-    D16
     D37
-    D38
+    D39
+    D40
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : board_gerber.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Board Edge
+Generating : Bottom Layer
+      File : board_gerber.GBL
 
     Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Edge
 
     Adding Layer      : Multi-Layer
 
@@ -47,14 +33,14 @@ Generating : Bottom Solder
 Used DCodes :
     D11
     D13
-    D19
-    D22
-    D23
-    D24
-    D25
     D26
-    D34
-    D35
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -77,6 +63,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Board Edge
+      File : board_gerber.GM9
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : board_gerber.GKO
 
@@ -88,6 +87,19 @@ Generating : Keep-Out Layer
 Used DCodes :
     D11
     D13
+*************************************************************
+
+*************************************************************
+Generating : 3D Body
+      File : board_gerber.GM1
+
+    Adding Layer      : 3D Body
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
@@ -118,43 +130,6 @@ Generating : Dimension
 Used DCodes :
     D11
     D13
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : board_gerber.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Board Edge
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D17
-    D18
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : 3D Body
-      File : board_gerber.GM1
-
-    Adding Layer      : 3D Body
-
-    Adding Layer      : Board Edge
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -203,24 +178,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : board_gerber.GD1
-
-    Adding Layer      : Board Edge
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D11
-    D37
-    D39
-    D40
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : board_gerber.GBP
 
@@ -240,10 +197,53 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : board_gerber.GBL
+Generating : Sheet
+      File : board_gerber.GM16
+
+    Adding Layer      : Sheet
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : board_gerber.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Edge
 
     Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D19
+    D22
+    D23
+    D24
+    D25
+    D26
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : board_gerber.GTL
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Board Edge
 
@@ -253,13 +253,13 @@ Generating : Bottom Layer
 Used DCodes :
     D11
     D13
+    D17
+    D18
     D26
     D27
     D28
     D29
     D30
     D31
-    D32
-    D33
 *************************************************************
 

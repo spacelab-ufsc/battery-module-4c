@@ -9,16 +9,16 @@
     <a href="">
 		<img src="https://img.shields.io/badge/status-development-green?style=for-the-badge">
 	</a>
-    <a href="">
+    <a href="https://github.com/spacelab-ufsc/battery-module-4c/releases">
 		<img src="https://img.shields.io/badge/version-0.1-blue?style=for-the-badge">
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v19.2-9cf?style=for-the-badge">
+		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v18.1.7-9cf?style=for-the-badge">
 	</a>
 	<a href="">
 		<img src="https://img.shields.io/badge/license-GPL3-red?style=for-the-badge">
 	</a>
-	<a href="">
+	<a href="https://github.com/spacelab-ufsc/eps2">
 		<img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">
 	</a>
 </p>

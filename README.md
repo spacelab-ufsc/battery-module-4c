@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v18.1.7-9cf?style=for-the-badge">
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/license-GPL3-red?style=for-the-badge">
+		<img src="https://img.shields.io/badge/LICENSE-CERN%20OHL%202-green">
 	</a>
 	<a href="https://github.com/spacelab-ufsc/eps2">
 		<img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">
@@ -46,8 +46,8 @@
 
 ## Version
 
+The current version of the project is v0.1, the status is ```development```.
+
 ## License
 
-## Notes
-
-Under Development! More information soon.
+This project is licensed under CERN Open Hardware License, version 2.

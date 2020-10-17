@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/CAD%20tool-altium%20v18.1.7-9cf?style=for-the-badge">
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/LICENSE-CERN%20OHL%202-green">
+		<img src="https://img.shields.io/badge/LICENSE-CERN%20OHL%202-green?style=for-the-badge">
 	</a>
 	<a href="https://github.com/spacelab-ufsc/eps2">
 		<img src="https://img.shields.io/badge/for%20more-here-lightgray?style=for-the-badge">

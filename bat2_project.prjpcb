@@ -350,7 +350,7 @@ Value=v0.1
 
 [Parameter2]
 Name=ProjectCode
-Value=BAT2
+Value=BAT4C
 
 [Parameter3]
 Name=DesignedBy

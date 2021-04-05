@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=D283E51D-13E6-499B-B9C4-60D269EBB810
+VaultGUID=A54BF4B7-1A63-4814-8288-C52B21583004
+ReleaseVaultName=D.  Baron
+ItemGUID=D283E51D-13E6-499B-B9C4-60D269EBB810
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -56,7 +59,7 @@ DocumentUniqueId=
 
 [Document2]
 DocumentPath=sources\0_architecture.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -73,7 +76,7 @@ DocumentUniqueId=WLBMTIJR
 
 [Document3]
 DocumentPath=sources\board_schematic.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -163,7 +166,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -362,16 +365,16 @@ DocumentPath=outputs\assembly_odb\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DesignedBy
-Value=Amanda Batista Medeiros
+Name=ProjectRevision
+Value=v0.1
 
 [Parameter2]
 Name=ProjectCode
 Value=BAT4C
 
 [Parameter3]
-Name=ProjectRevision
-Value=v0.1
+Name=DesignedBy
+Value=Amanda B. Medeiros
 
 [Configuration1]
 Name=Sources
@@ -581,6 +584,8 @@ OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType8=SimView Print
 OutputName8=SimView Prints
 OutputDocumentPath8=

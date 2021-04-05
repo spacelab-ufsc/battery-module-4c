@@ -30,10 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=D283E51D-13E6-499B-B9C4-60D269EBB810
-VaultGUID=A54BF4B7-1A63-4814-8288-C52B21583004
-ReleaseVaultName=D.  Baron
-ItemGUID=D283E51D-13E6-499B-B9C4-60D269EBB810
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]

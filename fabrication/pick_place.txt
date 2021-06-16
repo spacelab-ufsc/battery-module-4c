@@ -1,35 +1,21 @@
 Altium Designer Pick and Place Locations
-C:\Users\Sidney&Viviane\Documents\Andre\GitHub\battery-module-4c\.\fabrication\Pick Place for board_layout.txt
+C:\Users\Yan Azeredo\Desktop\SpaceLab\battery-module-4c\.\fabrication\Pick Place for board_layout.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       28/09/20
-Time:       23:15
-Revision:   Not in VersionControl
+Date:       16/06/21
+Time:       15:51
+Revision:   6f3ab6753688b6625acd82b5c164635b40737a37
 Variant:    No variations
 Units used: mil
 
-Designator Comment              Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                      
-V_CM       TEST_POINT           TopLayer    Test_Point                      3196.496      3244.843      90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
-VBAT-      TEST_POINT           TopLayer    Test_Point                      242.795       2042.047      90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
-VBAT+      TEST_POINT           TopLayer    Test_Point                      202.323       545.827       90       "Test Point - Headers & Wire Housings .100" Terminal Strip"                      
-Battery_3+ Holder_battery_18650 BottomLayer 54                              2737.047      1340.866      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_4+ Holder_battery_18650 BottomLayer 54                              666.457       491.260       360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-RTD3       32207595             BottomLayer THRMC3216X70N                   2098.425      915.945       90       "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
-Battery_1+ Holder_battery_18650 BottomLayer 54                              666.457       3016.220      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-RTD4       32207595             BottomLayer THRMC3216X70N                   2098.425      2592.322      270      "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
-RTD2       32207595             BottomLayer THRMC3216X70N                   603.110       916.102       90       "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
-RTD1       32207595             BottomLayer THRMC3216X70N                   603.110       2592.283      270      "Board Mount Temperature Sensors SMD1206(V) Pt 1000 Class B -50 to +130C"        
-PC104B     ESQ-126-39-G-D       TopLayer    ESQ-126-Y-X-D                   3254.528      1744.527      90       "PC / 104 Connectors .100" PC/104 Elevated Socket Strip"                         
-PC104A     ESQ-126-39-G-D       TopLayer    ESQ-126-Y-X-D                   3454.528      1744.527      90       "PC / 104 Connectors .100" PC/104 Elevated Socket Strip"                         
-JRTD       "Header 8_PicoBlade" TopLayer    53398-0871                      2878.740      151.772       0        "Headers & Wire Housings VERTICAL HDR SMT 8P"                                    
-JHeater    "Header 8_PicoBlade" TopLayer    53398-0871                      672.047       3373.071      180      "Headers & Wire Housings VERTICAL HDR SMT 8P"                                    
-J1         "Header 10_pos"      TopLayer    HDRV10W64P254_2X5_1270X502X521P 152.323       1182.480      90       Connector                                                                        
-Heater2    24R/3W               BottomLayer RESAD3322W86L1422D475           1702.303      915.945       180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                            
-Heater1    24R/3W               BottomLayer RESAD3322W86L1422D475           1702.303      2592.126      180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                            
-Battery_4- Holder_battery_18650 BottomLayer 54                              2737.047      491.260       180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_3- Holder_battery_18650 BottomLayer 54                              666.457       1340.866      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_2- Holder_battery_18650 BottomLayer 54                              666.457       2166.614      360      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_2+ Holder_battery_18650 BottomLayer 54                              2737.047      2166.614      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_1- Holder_battery_18650 BottomLayer 54                              2737.047      3016.220      180      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Designator Comment        Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                       
+RTD3       32207595       BottomLayer THRMC3216X70N                   1585.083      1760.827      360      "1 kOhms RTD Platinum (Pt) ±0.3% 3850ppm/°C 1206 (3216 Metric)"                   
+JRTD       0532610871     TopLayer    PICOBLADE_8PIN_RIGHT_ANGLE      2784.449      168.307       360      "PicoBlade 8 Position Right Angle Connector Header Surface Mount 0.049" (1.25mm)" 
+JHeater    0532610871     TopLayer    PICOBLADE_8PIN_RIGHT_ANGLE      992.126       3338.583      180      "PicoBlade 8 Position Right Angle Connector Header Surface Mount 0.049" (1.25mm)" 
+RTD2       32207595       BottomLayer THRMC3216X70N                   2027.559      905.512       90       "1 kOhms RTD Platinum (Pt) ±0.3% 3850ppm/°C 1206 (3216 Metric)"                   
+RTD1       32207595       BottomLayer THRMC3216X70N                   2027.559      2618.110      270      "1 kOhms RTD Platinum (Pt) ±0.3% 3850ppm/°C 1206 (3216 Metric)"                   
+J1         67996-110HLF   TopLayer    HDRV10W64P254_2X5_1270X502X521P 152.323       1182.480      90       "Headers & Wire Housings 2X5P UNSHRD HDR 30 microinch gold"                       
+Heater2    RS02B24R00FE12 BottomLayer RESAD3322W86L1422D475           1798.228      905.512       180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                             
+Heater1    RS02B24R00FE12 BottomLayer RESAD3322W86L1422D475           1798.228      2618.110      180      "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                             

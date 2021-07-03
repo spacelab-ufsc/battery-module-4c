@@ -1,5 +1,6 @@
 SRC=main
-TARGET=slb-bat4c-doc-v0.1
+VERSION=v0.2
+TARGET=slb-bat4c-doc-$(VERSION)
 
 ifndef BUILD_DIR
 	BUILD_DIR=build

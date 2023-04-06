@@ -1,0 +1,265 @@
+*************************************************************
+FileName = board_layout.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : board_layout.GD1
+
+    Adding Layer      : Board Edge
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D37
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : board_layout.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 3D Body
+      File : board_layout.GM1
+
+    Adding Layer      : 3D Body
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : board_layout.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Board Edge
+      File : board_layout.GM9
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : board_layout.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D17
+    D18
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : board_layout.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : board_layout.GM2
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : board_layout.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Sheet
+      File : board_layout.GM16
+
+    Adding Layer      : Sheet
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : board_layout.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D19
+    D22
+    D23
+    D24
+    D25
+    D26
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : board_layout.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : board_layout.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : board_layout.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
